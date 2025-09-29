@@ -90,6 +90,14 @@ Editamos el archivo de configuracion
 
 <img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/445333e0-18bd-4631-948a-70047a3fbc73" />
 
+y agregamos el nombre de la base de datos, el user y la contraseña
+
+<img width="1916" height="1075" alt="Captura desde 2025-09-29 12-32-46" src="https://github.com/user-attachments/assets/c3a3bfc3-360f-4394-9b5f-e3462fa9051e" />
+
+
+Guardamos y salimos con ctrl + x y luego Y Escribimos los datos de la base de datos que hemos creado antes y a continuacion copiamos las lineas que nos da y las pegamos en el archivo de configuracion, reemplazando las que ya hay
+
+<img width="1916" height="1075" alt="Captura desde 2025-09-29 12-41-24" src="https://github.com/user-attachments/assets/410cfcd1-c554-4060-8091-777ca3a99f4a" />
 
 
 
