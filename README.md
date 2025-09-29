@@ -16,3 +16,27 @@ Para saber si a funcionado correctamente buscamos en el navegador: http://localh
 Para berificar que los cambios funcionan hacemos un sudo systemctl status mysql y deberia de verse algo asi
 
 <img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/310f1ff1-e057-45bc-9b15-a1d80aa6753a" />
+
+
+### PASO 3
+## Instalacion PHP
+
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/9fea5abe-6c35-4d55-8542-d2bef725d22e" />
+
+Instalamos php y el modulo para que apache pueda interpretar php y vemos si esta corriendo perfectamente
+
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/7cce10af-27d2-42dd-ad52-215261b9e17e" />
+
+Con el comando sudo nano /var/www/html/info.php abrimos el archivo y escribimos "Prueba" y guardamos
+
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/0a022bf6-cb8f-4959-9dcf-8a1abe373cd7" />
+
+
+## PASO 4
+### Instalar phpMyAdmin para gestionar MySQL
+
+
+
+
+
+
