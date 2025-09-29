@@ -47,5 +47,6 @@ ya abierto creamos la base de datos para wordpress
 
 Creamos un usuario y le damos permisos a la base de datos que acabamos de crear
 
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/4a9d0c97-0cc6-4b82-b96b-62aee6800129" />
 
 
