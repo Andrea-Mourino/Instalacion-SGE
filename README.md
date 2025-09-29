@@ -53,6 +53,10 @@ y le damos \q para salir de mysql. Acto seguido instalamos phpmyadmin con sudo a
 
 <img width="1087" height="345" alt="imagen" src="https://github.com/user-attachments/assets/1ded8cec-1c05-443d-a466-9b7a89773665" />
 
+Aqui comprobamos que se a instalado correctamente y crear un enlace para poder acceder desde el navegador y comprobamos que se ha creado
+
+<img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/88c1d3b8-b860-4196-a75d-e68f4ea55b80" />
+
 
 
 
