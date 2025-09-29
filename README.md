@@ -57,6 +57,10 @@ Aqui comprobamos que se a instalado correctamente y crear un enlace para poder a
 
 <img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/88c1d3b8-b860-4196-a75d-e68f4ea55b80" />
 
+entramos al navegador y escribimos localhost/phpmyadmin/
+
+<img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/aafb7c65-1c4b-4b31-8fa0-ccaa5314a04a" />
+
 
 
 
