@@ -11,5 +11,5 @@ Para saber si a funcionado correctamente buscamos en el navegador: http://localh
 ## PASO 2
 ### Instalar mysql
 
-<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/1a2e3093-10cb-4cad-ad6e-6c03591af9fa" />
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/3fba5885-fc81-4061-86ca-6c090ef3144c" />
 
