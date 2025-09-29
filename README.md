@@ -76,18 +76,19 @@ entramos al navegador y escribimos localhost/phpmyadmin/
 ## PASO 5
 ### Descargar e Instalar WordPress
 
-Aqui vaamos a la carpeta personalo y descargamos la ultima version de Wordpress y con el comando tar -xvzf latest.tar.gz descomprimimos el archivo
+Aqui vamos a la carpeta personalo y descargamos la ultima version de Wordpress y con el comando tar -xvzf latest.tar.gz descomprimimos el archivo
 
 <img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/c93b6d42-1a4d-4ae2-8dbd-3d1c0267e0d3" />
 
 
-Copiamos la carpeta de wordpress a la carpeta raiz de apache
-Cambiamos el propietario de la carpeta a www-data
-Cambiamos los permisos de la carpeta
+A continuacion copiamos la carpeta de Wordpress a la carpeta raiz de apache, cambiamos el propietario y cambiamos los permisos de la carpeta
 
 <img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/1a093e7e-3223-42f4-a66c-b04dbd2c39f1" />
 
+Copiamos el archivo de configuracion de ejemplo
+Editamos el archivo de configuracion
 
+<img width="1916" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/445333e0-18bd-4631-948a-70047a3fbc73" />
 
 
 
