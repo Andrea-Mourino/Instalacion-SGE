@@ -13,3 +13,6 @@ Para saber si a funcionado correctamente buscamos en el navegador: http://localh
 
 <img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/3fba5885-fc81-4061-86ca-6c090ef3144c" />
 
+Para berificar que los cambios funcionan hacemos un sudo systemctl status mysql y deberia de verse algo asi
+
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/310f1ff1-e057-45bc-9b15-a1d80aa6753a" />
