@@ -1,4 +1,4 @@
-##PASO 1
+## PASO 1
 ### Instalacion Apache2
 
 <img width="1919" height="1076" alt="Captura desde 2025-09-29 09-49-23" src="https://github.com/user-attachments/assets/4ec8d562-14b2-4b56-b332-3c933522250f" />
