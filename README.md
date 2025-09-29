@@ -35,8 +35,17 @@ Con el comando sudo nano /var/www/html/info.php abrimos el archivo y escribimos 
 ## PASO 4
 ### Instalar phpMyAdmin para gestionar MySQL
 
+n<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/0b5163fb-f5f0-4f96-936a-ee86493f8588" />
 
+Entramos en mysql
 
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/f43e58f6-6ea1-4eae-b9f1-c839605766ab" />
+
+ya abierto creamos la base de datos para wordpress
+
+<img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/fc230d75-571a-40d6-a92c-53063d240ca4" />
+
+Creamos un usuario y le damos permisos a la base de datos que acabamos de crear
 
 
 
